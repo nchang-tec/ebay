@@ -2,3 +2,5 @@
     mofor
     simon
     sylvie
+    blaise
+    frank
